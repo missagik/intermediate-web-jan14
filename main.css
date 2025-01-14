@@ -2,3 +2,17 @@ body{
     background-color: pink;
     color:azure
 }
+
+p#first{
+    color: rgb(214, 71, 133);
+}
+
+li.personal{
+    font-weight: bolder;
+    color: rgb(225, 95, 149);
+}
+
+header{
+    background-color: white;
+    color: rgb(227, 15, 93);
+}
